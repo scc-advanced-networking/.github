@@ -1,10 +1,10 @@
-# SCC365: Advanced Networking - Lancaster University
+# SCC333: Advanced Networking - Lancaster University
 
 
 ```
 With pride and joy, we celebrate
 A student who has proven great
-In SCC365, they did excel
+In SCC333, they did excel
 Advanced Networking they know well
 ```
 
